@@ -30,4 +30,23 @@ cloud-monitoring-telemetry/
 ├── .gitignore                 # Excludes venv and build artifacts
 └── README.md                  # System documentation
 ```
+
 # cloud-monitoring-telemetry
+
+## 📸 Execution & Verification Proofs
+
+### 1. Local Health Check & Incident Trigger
+
+![Terminal Output](screenshots/terminal_execution.png)
+
+### 2. Scheduled GitHub Actions Workflow Run
+
+![GitHub Actions Overview](screenshots/actions_workflow_success.png)
+
+### 3. Detailed Telemetry Logs & Incident Alert
+
+![Actions Execution Log](screenshots/actions_logs_incident.png)
+
+### 4. Automated Telemetry Log Commit via Bot
+
+![Bot Commit](screenshots/auto_commit_logs.png)
