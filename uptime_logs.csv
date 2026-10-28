@@ -1,0 +1,4 @@
+Timestamp,Service,URL,Status_Code,Latency_ms,Status,Alert_Triggered
+2026-10-28T12:19:27.757621Z,Google,https://www.google.com,200,694.91,UP,False
+2026-10-28T12:19:29.434643Z,GitHub Status,https://www.githubstatus.com,200,1675.22,UP,True
+2026-10-28T12:19:31.599939Z,Simulated Down Endpoint,https://httpstat.us/503,0,2164.6,DOWN,True
