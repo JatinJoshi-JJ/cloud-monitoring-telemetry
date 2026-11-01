@@ -59,3 +59,6 @@ Timestamp,Service,URL,Status_Code,Latency_ms,Status,Alert_Triggered
 2026-11-01T06:55:36.942834+00:00,Google,https://www.google.com,200,117.51,UP,False
 2026-11-01T06:55:37.189634+00:00,GitHub Status,https://www.githubstatus.com,200,246.42,UP,False
 2026-11-01T06:55:37.381792+00:00,Simulated Down Endpoint,https://httpstat.us/503,0,192.0,DOWN,True
+2026-11-01T13:53:32.856182+00:00,Google,https://www.google.com,200,90.74,UP,False
+2026-11-01T13:53:32.967427+00:00,GitHub Status,https://www.githubstatus.com,200,110.87,UP,False
+2026-11-01T13:53:33.324162+00:00,Simulated Down Endpoint,https://httpstat.us/503,0,356.58,DOWN,True
